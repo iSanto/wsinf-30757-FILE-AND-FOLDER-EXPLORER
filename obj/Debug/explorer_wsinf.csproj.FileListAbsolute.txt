@@ -1,0 +1,16 @@
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\bin\Debug\explorer_wsinf.exe.config
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\bin\Debug\explorer_wsinf.exe
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\bin\Debug\explorer_wsinf.pdb
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf.csprojResolveAssemblyReference.cache
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\MainWindow.g.cs
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\App.g.cs
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf_MarkupCompile.cache
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf_MarkupCompile.lref
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\MainWindow.baml
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf.g.resources
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf.Properties.Resources.resources
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf.csproj.GenerateResource.cache
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf.csproj.CoreCompileInputs.cache
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf.exe
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\explorer_wsinf.pdb
+c:\users\rafał\source\repos\explorer_wsinf\explorer_wsinf\obj\Debug\App.baml
